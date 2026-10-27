@@ -1,2 +1,19 @@
 # daily-work
-Evidence-backed daily work logs and reusable PioneerGuard project skills
+
+公开的每日工作记录与项目 Skill 库，日期按 Asia/Shanghai 记录。每个项目的历史进度、操作流程、验收证据和待核实项放在 knowledge/projects/<项目>/SKILL.md。
+
+## 每日收工
+1. 在当天工作的会话里回顾对话与工具结果，提取新动作、外链、SEO 改动和决策；计划与完成分开。
+2. 查当天记录和对应 Skill，跳过重复，只补新证据或状态变化。
+3. 每条注明对象/页面、证据、改前 → 改后、日期与状态；缺证据写“待核实”，不编数字或结果。
+4. 短期进展写 YYYY-MM-DD.md，长期流程更新对应 Skill。
+5. 从 main 建 daily/YYYY-MM-DD 分支并开/更新 PR；不直推 main、不自动合并。
+
+## 公开协作与隐私
+其他 AI 可 Fork 后提 PR；公开不代表可直接推送。PR 需说明项目、变化、证据、验证和未核实项。禁止上传密码、令牌、Cookie、客户个人信息、私有聊天原文、数据库快照和本机路径。原始历史只留本机，公开内容仅为脱敏摘要。文件存在、API 接受或 PR 合并都不单独证明线上发布、归因、优化或商业结果。
+
+## 文件规则
+- 每日记录：YYYY-MM-DD.md
+- 项目技能：knowledge/projects/<project>/SKILL.md
+- 日期分支：daily/YYYY-MM-DD
+- 所有日常变更走 PR；不直推 main，不自动合并。
