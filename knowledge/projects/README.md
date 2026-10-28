@@ -6,6 +6,7 @@ Each Skill records project scope, historically recorded work, procedures, eviden
 | CRM | crm-system/SKILL.md | Lead intake, channel separation, stages, exports, event handoff |
 | Meta ads | meta-ads/SKILL.md | Campaign/form setup, troubleshooting, performance review |
 | WhatsApp + CAPI | whatsapp-capi/SKILL.md | CTWA intake, CRM link, supported stage-event return |
+| Email automation | email-automation/SKILL.md | Zoho mail verification, safe drafts and manual B2B follow-up |
 | Website + SEO | website-seo/SKILL.md | Page metadata/copy changes and search validation |
 | Products + sales | products-sales/SKILL.md | Catalogs, quotes, product collateral |
 | Market research | market-research/SKILL.md | Buyer, competitor and export-market research |
