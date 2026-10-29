@@ -17,3 +17,9 @@ Historical work includes editable quote iterations, catalog restructuring, bilin
 7. Recheck prices, MOQ, delivery, certification, company identity, factory claims and warranty before external use.
 
 Never invent price, capacity, specs, certification, ownership, lead time, customer results or warranty coverage.
+## Customer proof and case-study workflow
+1. Split sample tests, first orders, repeat purchases and OEM discussions into distinct stages; do not turn an inquiry or negotiation into a sale.
+2. Tie each customer outcome to a dated source record or order evidence before using it externally. Mark user-provided but unverified outcomes pending confirmation.
+3. Keep general shipping or warehouse photos separate from a specific case unless the photo is documented as belonging to that order.
+4. Remove or obtain permission for names, contact details, faces, vehicle plates and third-party marks before publication.
+5. Keep a bilingual copy-to-image map and preview on desktop/mobile; check image loading, captions and claim boundaries before release.
