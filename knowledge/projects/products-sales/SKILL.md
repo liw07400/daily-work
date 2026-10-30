@@ -23,3 +23,11 @@ Never invent price, capacity, specs, certification, ownership, lead time, custom
 3. Keep general shipping or warehouse photos separate from a specific case unless the photo is documented as belonging to that order.
 4. Remove or obtain permission for names, contact details, faces, vehicle plates and third-party marks before publication.
 5. Keep a bilingual copy-to-image map and preview on desktop/mobile; check image loading, captions and claim boundaries before release.
+
+## Catalogue parameters and media — 2026-10-30
+- Map each model to its source document/page and units. Check VLT, UV block, IR rejection, thickness and roll format separately; IR rejection is not interchangeable with TSER. Matching the catalogue proves transcription consistency, not laboratory performance or current commercial terms.
+- Recheck selected model, quantity and inquiry draft together. A working custom-size inquiry entry does not prove every size is available; a generated WhatsApp message is not a sent or received inquiry.
+- Keep film-material photos, vehicle appearance references and illustrations clearly identified. Verify SKU and colour before assigning an image; a colour-matched vehicle is not a measured optical demonstration.
+- Preserve a missing-photo placeholder when no reliable match exists. If a hover view enlarges the same source image, label it as a detail crop rather than a second product photograph.
+- Record source and usage rights. Third-party reference material remains a local preview until commercial permission or an approved replacement is confirmed.
+- The recorded photo reuse rule allows at most two distinct content pages per photo, excluding brand marks. Translations, pagination/filter views, responsive variants and lightboxes of the same page count as one placement. Do not rename or crop duplicates merely to evade the rule; confirm current scope before applying it elsewhere.

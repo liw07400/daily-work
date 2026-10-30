@@ -14,7 +14,7 @@ description: Make and verify PioneerGuard page and SEO changes without overstati
 4. Reopen the page and inspect rendered copy and metadata; log exact fields as before → after.
 5. Check indexing separately in search tools. A saved title does not prove indexing, ranking, traffic or leads.
 6. Log evidence and gaps; analytics/CRM evidence is required for traffic and lead claims.
-7. For parallel work, keep separate source copies; review the actual delivered files, then release in batches and verify each live page after deployment.
+7. Read the current workspace collaboration rules first. If the user has selected a shared checkout, coordinate one writer per overlapping file, preserve unrelated changes and use the agreed preview; use separate copies when required by the current workflow. Review delivered files before releasing and verify live pages separately.
 ## Performance release workflow
 1. Capture the tested URL, deployment/build identifier, device profile, Lighthouse version and before/after evidence. Keep runs comparable; if copy or multiple code areas change, describe the result as an observed before/after, not a controlled experiment.
 2. Defer below-the-fold video sources until near the viewport; keep a stable poster, preload only critical first-screen media, and lazy-load/decode lower-page images. Preserve play/pause, carousel behavior and reduced-motion preferences.
@@ -24,3 +24,10 @@ description: Make and verify PioneerGuard page and SEO changes without overstati
 
 ## Recorded performance evidence — 2026-10-29
 The session release record reports the Chinese homepage deployed at https://pioneerguardfilm.com/zh/ (runtime commit 2c4f347). A local Lighthouse mobile snapshot changed from Performance 65 to 74, LCP 14.3s to 5.0s, and total transfer 11,966 KiB to 1,899 KiB. It was one run before and after several concurrent changes, not a controlled A/B or Google remote/field measurement; FCP and TBT did not improve. Source-side evidence filename: PERFORMANCE-20261029.md.
+
+## Shared preview and interface checks — 2026-10-30
+- The recorded PioneerGuard decision uses the existing preview on port 3184 and one shared checkout. Recheck workspace AGENTS.md and .collab/STATE.md before edits; preserve valid language paths, query filters and anchors. Do not deliver an old preview from another port.
+- Reuse the running development service. If a build is needed, set a distinct NEXT_DIST_DIR; do not build into the active service output or restart services simply to coordinate links.
+- For galleries, keep a stable frame and avoid scrollIntoView on ordinary image changes. Verify hover, keyboard, modal focus return/Escape, scroll locking, reduced motion, mobile layout and URL/scroll stability. Distinguish actual touch testing from code inspection.
+- For added feedback details, verify the source-to-detail mapping, return links, each locale route, metadata and invalid-ID 404 behavior. Keep source screenshots private and sanitized.
+- Date checks to the exact version tested. A prior build audit does not validate later media/layout changes; a local route or sitemap is not a public release or indexing result.
