@@ -17,3 +17,7 @@ Historical work examined webhook intake, referral identifiers, CRM decisions, ev
 7. Redact credentials, messages, phone numbers and customer/account IDs.
 
 Asset listing is not webhook intake, message sending or event return. HTTP/API acceptance is not attribution or revenue. Recheck current official API rules before changing payloads.
+
+## Historical event correction — 2026-10-31
+- In the recorded SDK review, no supported method was verified for retracting an already received event by `event_id`; obtain confirmation from Meta support before promising deletion or exclusion.
+- Separate Meta-side historical correction from local CRM receipt cleanup. Removing local rows, stopping a webhook, changing a shared event name, deleting a dataset or changing WABA bindings does not prove the received Meta event was removed; keep unrelated WhatsApp flows intact unless separately authorized and verified.
