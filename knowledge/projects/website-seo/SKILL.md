@@ -31,3 +31,9 @@ The session release record reports the Chinese homepage deployed at https://pion
 - For galleries, keep a stable frame and avoid scrollIntoView on ordinary image changes. Verify hover, keyboard, modal focus return/Escape, scroll locking, reduced motion, mobile layout and URL/scroll stability. Distinguish actual touch testing from code inspection.
 - For added feedback details, verify the source-to-detail mapping, return links, each locale route, metadata and invalid-ID 404 behavior. Keep source screenshots private and sanitized.
 - Date checks to the exact version tested. A prior build audit does not validate later media/layout changes; a local route or sitemap is not a public release or indexing result.
+
+## Sitewide motion and media audit
+1. Inventory the source assets and rendered routes. Use contact sheets to triage large image sets; use OCR to find possible text or marks, then visually inspect candidates and final displayed assets because OCR can miss small details.
+2. Preserve original product assets and factual specifications. Apply approved display replacements through a scoped presentation mapping where possible. Use genuine, model-relevant vehicle photos; keep supplier/material facts separate from competitor branding and unrelated logo showcases.
+3. Verify motion and image behavior at desktop, embedded-preview and mobile widths, with reduced motion enabled. Check filter/pagination insertions, hover or keyboard transitions, URL/scroll stability, and images filling their frames.
+4. Record the exact route count, viewport sizes, image and console checks, and whether checks were final or earlier broad sampling. A local preview is not a production release.
