@@ -1,0 +1,11 @@
+# Personal or private data
+knowledge/backfill/
+knowledge/private-local-archive/
+**/*.sqlite
+**/*.sqlite-*
+**/*.db
+**/*.db-*
+**/.env
+**/.env.*
+**/secrets/
+**/*ConsoleHost_history*
