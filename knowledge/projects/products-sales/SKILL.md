@@ -20,7 +20,7 @@ Never invent price, capacity, specs, certification, ownership, lead time, custom
 ## Customer proof and case-study workflow
 1. Split sample tests, first orders, repeat purchases and OEM discussions into distinct stages; do not turn an inquiry or negotiation into a sale.
 2. Tie each customer outcome to a dated source record or order evidence before using it externally. Mark user-provided but unverified outcomes pending confirmation.
-3. Keep general shipping or warehouse photos separate from a specific case unless the photo is documented as belonging to that order.
+3. Keep general shipping or warehouse photos separate from a specific case unless the photo is documented as belonging to that order. If a shared reference library appears inside feedback, show a visible note that it is not individually matched to that conversation. Keep original feedback text and source associations; proximity does not establish the pictured customer, country or order. Inventory photo-to-page reuse separately from checking that images load.
 4. Remove or obtain permission for names, contact details, faces, vehicle plates and third-party marks before publication.
 5. Keep a bilingual copy-to-image map and preview on desktop/mobile; check image loading, captions and claim boundaries before release.
 
