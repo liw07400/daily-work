@@ -1,0 +1,2 @@
+# Knowledge Library
+See projects/README.md for project Skills, historical progress, procedures and verification gaps. The full local chat archive and raw backfill stay on the owner's computer; this public library contains curated summaries only.
